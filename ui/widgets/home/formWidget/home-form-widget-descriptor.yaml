@@ -1,0 +1,6 @@
+code: home-form-widget
+titles:
+  en: Home Form Widget
+  it: Home Form Widget
+group: free
+customUiPath: home-form-widget.ftl

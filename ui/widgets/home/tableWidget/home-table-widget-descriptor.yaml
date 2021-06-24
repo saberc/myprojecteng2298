@@ -1,0 +1,6 @@
+code: home-table-widget
+titles:
+  en: Home Table Widget
+  it: Home Table Widget
+group: free
+customUiPath: home-table-widget.ftl

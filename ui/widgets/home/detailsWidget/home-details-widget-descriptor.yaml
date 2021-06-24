@@ -1,0 +1,6 @@
+code: home-details-widget
+titles:
+  en: Home Details Widget
+  it: Home Details Widget
+group: free
+customUiPath: home-details-widget.ftl
